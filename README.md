@@ -9,7 +9,7 @@ Methods implemented are: getIntegers, printArray, and sortIntegers
 
 ## Installation: 
 
-Download or clone the repository on your local machine.
+Download or clone the repository on your local machine (It's an IntelliJ IDEA project).
 
 ```sh
 $ git clone https://github.com/AAdewunmi/Sort_Array_Descending_Order.git
