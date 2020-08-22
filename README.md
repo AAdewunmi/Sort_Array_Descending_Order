@@ -6,3 +6,16 @@ Methods implemented are: getIntegers, printArray, and sortIntegers
 - getIntegers returns an array of entered integers from keyboard
 - printArray prints out the contents of the array
 - sortIntegers should sort the array and return a new array containing the sorted numbers
+
+## Installation: 
+
+Download or clone the repository on your local machine.
+
+```sh
+$ git clone https://github.com/AAdewunmi/SimpleCalculator.git
+$ cd SimpleCalculator
+```
+## Console display : 
+
+![Image of Console](src/Screenshot.png)
+
