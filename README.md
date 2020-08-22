@@ -12,10 +12,10 @@ Methods implemented are: getIntegers, printArray, and sortIntegers
 Download or clone the repository on your local machine.
 
 ```sh
-$ git clone https://github.com/AAdewunmi/SimpleCalculator.git
-$ cd SimpleCalculator
+$ git clone https://github.com/AAdewunmi/Sort_Array_Descending_Order.git
+$ cd Sort_Array_Descending_Order
 ```
 ## Console display : 
 
-![Image of Console](src/Screenshot.png)
+![Image of Console](src/com/JavaArrays/screenshot.png )
 
